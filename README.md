@@ -61,3 +61,5 @@ OpenZeppelin is released under the [MIT License](LICENSE).
 [Truffle]: https://truffleframework.com/docs/truffle/quickstart
 [Embark]: https://embark.status.im/docs/quick_start.html
 [Buidler]: https://buidler.dev/guides/#getting-started
+
+[![DepShield Badge](https://depshield.sonatype.org/badges/SAMHEO/openzeppelin-solidity/depshield.svg)](https://depshield.github.io)
