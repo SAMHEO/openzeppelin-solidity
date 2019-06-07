@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.com/OpenZeppelin/openzeppelin-solidity.svg?branch=master)](https://travis-ci.com/OpenZeppelin/openzeppelin-solidity)
 [![Coverage Status](https://coveralls.io/repos/github/OpenZeppelin/openzeppelin-solidity/badge.svg?branch=master)](https://coveralls.io/github/OpenZeppelin/openzeppelin-solidity?branch=master)
 [![DepShield Badge](https://depshield.sonatype.org/badges/SAMHEO/openzeppelin-solidity/depshield.svg)](https://depshield.github.io)
+[![Known Vulnerabilities](https://snyk.io/test/github/SAMHEO/openzeppelin-solidity/badge.svg)](https://snyk.io/test/github/SAMHEO/openzeppelin-solidity)
 
 **OpenZeppelin is a library for secure smart contract development.** It provides implementations of standards like ERC20 and ERC721 which you can deploy as-is or extend to suit your needs, as well as Solidity components to build custom contracts and more complex decentralized systems.
 
