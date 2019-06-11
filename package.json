@@ -34,7 +34,7 @@
     "babel-register": "^6.23.0",
     "chai": "^4.0.2",
     "chai-as-promised": "^7.0.0",
-    "chai-bignumber": "^2.0.0",
+    "chai-bignumber": "^3.0.0",
     "coveralls": "^2.13.1",
     "eslint": "^4.11.0",
     "eslint-config-standard": "^10.2.1",
