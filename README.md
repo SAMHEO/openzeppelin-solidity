@@ -2,6 +2,7 @@
 [![NPM Package](https://img.shields.io/npm/v/zeppelin-solidity.svg?style=flat-square)](https://www.npmjs.org/package/zeppelin-solidity)
 [![Build Status](https://img.shields.io/travis/OpenZeppelin/zeppelin-solidity.svg?branch=master&style=flat-square)](https://travis-ci.org/OpenZeppelin/zeppelin-solidity)
 [![Coverage Status](https://img.shields.io/coveralls/github/OpenZeppelin/zeppelin-solidity/master.svg?style=flat-square)](https://coveralls.io/github/OpenZeppelin/zeppelin-solidity?branch=master)
+[![DepShield Badge](https://depshield.sonatype.org/badges/SAMHEO/openzeppelin-solidity/depshield.svg)](https://depshield.github.io)
 
 OpenZeppelin is a library for writing secure [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract) on Ethereum.
 
